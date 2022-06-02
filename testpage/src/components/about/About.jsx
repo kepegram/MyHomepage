@@ -8,7 +8,7 @@ const About = () => {
         <div className="a-card bg"></div>
         <div className="a-card">
           <img
-            src="https://images.pexels.com/photos/3585047/pexels-photo-3585047.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+            src="https://i.pinimg.com/originals/ba/f7/97/baf7979cc8851ebd1f70e70318d76eb1.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500"
             alt=""
             className="a-img"
           />
